@@ -1,8 +1,8 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
+  width: 100vw;
   padding: 2rem;
   text-align: center;
+  background-color: #ededed;
 }
 
 .logo {
@@ -39,4 +39,12 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.dashboardHeader {
+  font-weight: 400;
+  font-size: 2rem;
+  text-align: start;
+  padding-bottom: 0.5rem;
+  color: #000000;
 }

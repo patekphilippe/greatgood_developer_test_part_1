@@ -1,0 +1,20 @@
+.cellWrapper {
+  display: flex;
+  flex-direction: column;
+  &Horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+}
+
+.cellText {
+  &Small {
+    font-size: 12px;
+    color: #c4c4c4;
+    margin: 0;
+  }
+  &Green {
+    color: #51c851;
+  }
+}

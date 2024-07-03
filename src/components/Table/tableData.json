@@ -1,0 +1,66 @@
+[
+  {
+    "created": "2024-05-15T14:12:27",
+    "name": "KÁROLY-EDWARD RÁCZ",
+    "email": "sdfgh@dsadasda.com",
+    "type": "aiscan2",
+    "risk_score": "LOW",
+    "status": "Approved"
+  },
+  {
+    "created": "2024-05-15T14:02:06",
+    "name": "KÁROLY-EDWARD RÁCZ",
+    "email": "dsada@dsadas.com",
+    "type": "aiscan2",
+    "risk_score": "Not calculated",
+    "status": "Customer Processing"
+  },
+  {
+    "created": "2024-05-03T08:57:14",
+    "name": "KÁROLY-EDWARD RÁCZ",
+    "email": "fasfas@dasdas.com",
+    "type": "aiscan2",
+    "risk_score": "LOW",
+    "status": "Approved"
+  },
+  {
+    "created": "2024-05-03T08:33:55",
+    "name": "KÁROLY-EDWARD RÁCZ",
+    "email": "sfsafas@fsafas.com",
+    "type": "aiscan2",
+    "risk_score": "LOW",
+    "status": "Approved"
+  },
+  {
+    "created": "2024-05-03T08:23:24",
+    "name": "KÁROLY-EDWARD RÁCZ",
+    "email": "dsada@fdsfas.com",
+    "type": "aiscan2",
+    "risk_score": "LOW",
+    "status": "Approved"
+  },
+  {
+    "created": "2024-05-01T10:45:58",
+    "name": "ssdhgj",
+    "email": "dsafg@fasfas.com",
+    "type": "aiscan2",
+    "risk_score": "Not calculated",
+    "status": "User Accepted KYC Invitation"
+  },
+  {
+    "created": "2024-03-22T09:57:47",
+    "name": "KÁROLY-EDWARD RÁCZ",
+    "email": "dasgasge@sdada.com",
+    "type": "aiscan2",
+    "risk_score": "LOW",
+    "status": "Approved"
+  },
+  {
+    "created": "2024-03-22T09:53:16",
+    "name": "KÁROLY-EDWARD RÁCZ",
+    "email": "dafasf@sdsada.com",
+    "type": "aiscan2",
+    "risk_score": "LOW",
+    "status": "Approved"
+  }
+]

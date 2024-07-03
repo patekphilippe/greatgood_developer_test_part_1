@@ -1,0 +1,7 @@
+[
+  { "title": "Approved", "value": 11, "color": "#008000" },
+  { "title": "Rejected", "value": 1, "color": "#FFA500" },
+  { "title": "Cancelled", "value": 1, "color": "#FF0000" },
+  { "title": "Ready for Review", "value": 10, "color": "#FFFF00" },
+  { "title": "In progress", "value": 54, "color": "#0000FF" }
+]
