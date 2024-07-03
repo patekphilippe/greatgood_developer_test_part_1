@@ -44,7 +44,7 @@ export default function Table() {
         <TableHead>
           <TableRow>
             {titles.map((title) => (
-              <TableCell>{title}</TableCell>
+              <TableCell key={title}>{title}</TableCell>
             ))}
             <TableCell></TableCell>
           </TableRow>
